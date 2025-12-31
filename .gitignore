@@ -36,4 +36,4 @@ EOF
 *.session-journal
 
 # data
-data/
+/data
