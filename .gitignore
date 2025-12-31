@@ -34,3 +34,6 @@ EOF
 # telegram session
 *.session
 *.session-journal
+
+# data
+data/
