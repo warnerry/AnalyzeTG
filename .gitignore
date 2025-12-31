@@ -27,3 +27,10 @@ build/
 # Logs
 *.log
 EOF
+
+# secrets
+.env
+
+# telegram session
+*.session
+*.session-journal
